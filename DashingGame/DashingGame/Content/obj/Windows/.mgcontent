@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/Heart.wav</File>
+    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/BombExplodes.wav</File>
+    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/LevelFinish.wav</File>
+    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/SnowShuffeld.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

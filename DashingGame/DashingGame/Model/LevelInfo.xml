@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- 
+            $   heart                
+            @   ball                
+            .   snow                
+            *   player               
+            !   exit door 
+            B   bomb      
+            %   wall           			
+-->
+<levelInfo>
+	<level Name="Level 01">
+		<row data="%%%%%%%%%%%%%%%%%%%%" />
+		<row data="%....@.....@.$.....%" />
+		<row data="%.*..@$...@@@@...@.%" />
+		<row data="%....@...$.......@.%" />
+		<row data="%%%%%%%%%%%%%%%%.$.%" />
+		<row data="%....@@...@....@...%" />
+		<row data="%.@...$..@...$.@...%" />
+		<row data="%.@.%%%%%%%%%%%%%%%%" />
+		<row data="%$.@...@.@...$@....%" />
+		<row data="%....@@..@$...@$..@!" />
+		<row data="%.$....@.@..@..$..@%" />
+		<row data="%%%%%%%%%%%%%%%%%%%%" />
+	</level>
+  <level Name="Level 02">
+    <row data="   %%%%%%%%%        " />
+    <row data="   %...@...%%%%%%   " />
+    <row data="   %.B....@@...!%   " />
+    <row data="   %.*...B.%%%%%%   " />
+    <row data="   %. .....%        " />
+    <row data=" %%%%%%%...%%%%%%   " />
+    <row data=" %$$$$$%...%$$$$%   " />
+    <row data=" %$$$$$%%%%%$$$$%   " />
+    <row data=" %$$$$$%%%%%$$$$%   " />
+    <row data=" %%%%%%%   %%%%%%   " />
+  </level>
+  <level Name="Level 03">
+    <row data="%%%%%%%%%%%%%%%%%%%%" />
+    <row data="%%*.$...%..$..%%@$%%" />
+    <row data="%%..@.%..@...@%..@%%" />
+    <row data="%%%.%%.$.%%%..@.$.%%" />
+    <row data="%%.@$.@...@.$..@%.%%" />
+    <row data="%%.%%...%...%.@..%%%" />
+    <row data="%%..@%.@$.%..%%%..%%" />
+    <row data="%%.%$..%..@...@.@.%%" />
+    <row data="%%.@%%..@..%%%....%%" />
+    <row data="%%..$.%...$..@..%.%%" />
+    <row data="%%.%....%..@..%..!%%" />
+    <row data="%%%%%%%%%%%%%%%%%%%%" />
+  </level>
+  <level Name="Empty">
+    <row data="*                   " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+    <row data="                    " />
+  </level>
+</levelInfo>
