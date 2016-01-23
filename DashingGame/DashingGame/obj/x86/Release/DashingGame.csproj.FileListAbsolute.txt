@@ -40,3 +40,47 @@ C:\Users\Linus\Documents\Visual Studio 2013\Projects\DashingGame\DashingGame\bin
 C:\Users\Linus\Documents\Visual Studio 2013\Projects\DashingGame\DashingGame\bin\Windows\Release\SharpDX.Direct3D9.xml
 C:\Users\Linus\Documents\Visual Studio 2013\Projects\DashingGame\DashingGame\obj\x86\Release\DashingGame.exe
 C:\Users\Linus\Documents\Visual Studio 2013\Projects\DashingGame\DashingGame\obj\x86\Release\DashingGame.pdb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\obj\x86\Release\DashingGame.exe
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\obj\x86\Release\DashingGame.pdb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\HeartSound.xnb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\BombExplodes.xnb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Heart.xnb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\LevelFinish.xnb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\SnowShuffeld.xnb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Ball.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Bomb.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\BombExplodes.wav
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Boom.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Exit.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Heart.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Heart.wav
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\LevelFinish.wav
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Player.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Snow.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\SnowShuffeld.wav
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\Wall.png
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Content\DefaultFont.xnb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\DashingGame.exe
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\DashingGame.pdb
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\MonoGame.Framework.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.MediaFoundation.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.XAudio2.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.Direct3D11.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.DXGI.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.Direct2D1.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.XInput.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.RawInput.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.Direct3D9.dll
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\MonoGame.Framework.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.MediaFoundation.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.XAudio2.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.Direct3D11.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.DXGI.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.Direct2D1.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.XInput.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.RawInput.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\SharpDX.Direct3D9.xml
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\obj\x86\Release\DashingGame.csprojResolveAssemblyReference.cache
+C:\Users\Linus\git1\1dv437_Project\DashingGame\DashingGame\bin\Windows\Release\Model\LevelInfo.xml

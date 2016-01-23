@@ -19,9 +19,6 @@ namespace DashingGame.Model
         public string LevelName { get; set; }
         public int HeartsToComplete { get; set; }
         public int HeartsTaken { get; set; }
-        //SoundEffect _heartSound;
-        //SoundEffect _bombSound;
-        //SoundEffect _levelFinishSound;
 
         List<BaseBlock> _blocks = new List<BaseBlock>();
 
@@ -121,22 +118,5 @@ namespace DashingGame.Model
             _blocks.Remove(block);
         }
 
-        //public void loadSounds(SoundEffect heartSound)
-        //{
-        //    _heartSound = heartSound;
-        //}
-
-        //public SoundEffect GetHeartSound()
-        //{
-        //    return _heartSound;
-        //}
-        //public SoundEffect GetBombSound()
-        //{
-        //    return _bombSound;
-        //}
-        //public SoundEffect GetLevelFinishedSound()
-        //{
-        //    return _levelFinishSound;
-        //}
     }
 }

@@ -17,9 +17,6 @@ namespace DashingGame
         SpriteBatch spriteBatch;
         SpriteFont defaultFont;
         Board board;
-        //SoundEffect heartSound;
-        //SoundEffect bombSound;
-        //SoundEffect levelFinishSound;
 
         KeyboardState prevState = Keyboard.GetState();
         Directions playerGo = Directions.None;
@@ -81,13 +78,9 @@ namespace DashingGame
 
             // TODO: use this.Content to load your game content here
             defaultFont = Content.Load<SpriteFont>("DefaultFont");
-           // heartSound = Content.Load<SoundEffect>("HeartSound");
-           // bombSound = Content.Load<SoundEffect>("BombExplodesSound");
-          //  levelFinishSound = Content.Load<SoundEffect>("LevelFinishSound");
 
             LoadBoard();
             new Textures(GraphicsDevice);
-           // board.loadSounds(heartSound);
         }
 
         private void LoadBoard()

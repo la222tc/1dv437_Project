@@ -28,7 +28,7 @@ namespace DashingGame.Model
                         _levels = new List<Board>();
 
                         XmlDocument xd = new XmlDocument();
-                        using (FileStream fs = new FileStream((@"C:\Users\Linus\Documents\Visual Studio 2013\Projects\DashingGame\DashingGame\Model/LevelInfo.xml"), FileMode.Open))
+                        using (FileStream fs = new FileStream((string.Format("Model\\LevelInfo.xml")), FileMode.Open))
                         {
                             xd.Load(fs);
                         }

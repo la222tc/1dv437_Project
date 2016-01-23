@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/Heart.wav</File>
-    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/BombExplodes.wav</File>
-    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/LevelFinish.wav</File>
-    <File>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/SnowShuffeld.wav</File>
+    <File>C:/Users/Linus/git1/1dv437_Project/DashingGame/DashingGame/Content/Heart.wav</File>
+    <File>C:/Users/Linus/git1/1dv437_Project/DashingGame/DashingGame/Content/BombExplodes.wav</File>
+    <File>C:/Users/Linus/git1/1dv437_Project/DashingGame/DashingGame/Content/LevelFinish.wav</File>
+    <File>C:/Users/Linus/git1/1dv437_Project/DashingGame/DashingGame/Content/SnowShuffeld.wav</File>
   </SourceFiles>
 </SourceFileCollection>

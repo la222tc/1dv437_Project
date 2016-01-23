@@ -117,6 +117,7 @@
     <Content Include="Icon.ico" />
     <Content Include="Model\LevelInfo.xml">
       <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <ItemGroup>

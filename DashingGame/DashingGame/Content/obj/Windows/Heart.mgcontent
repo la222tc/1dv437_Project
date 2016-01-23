@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/Heart.wav</SourceFile>
+  <SourceFile>C:/Users/Linus/git1/1dv437_Project/DashingGame/DashingGame/Content/Heart.wav</SourceFile>
   <SourceTime>2016-01-12T19:57:48.7772092+01:00</SourceTime>
-  <DestFile>C:/Users/Linus/Documents/Visual Studio 2013/Projects/DashingGame/DashingGame/Content/bin/Windows/Heart.xnb</DestFile>
-  <DestTime>2016-01-13T09:57:32.7887495+01:00</DestTime>
+  <DestFile>C:/Users/Linus/git1/1dv437_Project/DashingGame/DashingGame/Content/bin/Windows/Heart.xnb</DestFile>
+  <DestTime>2016-01-23T14:16:44.2205272+01:00</DestTime>
   <Importer>WavImporter</Importer>
   <ImporterTime>2015-04-29T19:14:44+02:00</ImporterTime>
   <Processor>SoundEffectProcessor</Processor>

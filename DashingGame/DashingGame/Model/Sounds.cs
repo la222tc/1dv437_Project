@@ -35,7 +35,7 @@ namespace DashingGame.Model
         private SoundEffect GetSoundEffect(SoundType Type)
         {
             if (!_effects.ContainsKey(Type))
-                using (FileStream fs = File.Open(Path.Combine(@"C:\Users\Linus\Documents\Visual Studio 2013\Projects\DashingGame\DashingGame\Content", string.Format("{0}.wav", Type)), FileMode.Open))
+                using (FileStream fs = File.Open((string.Format("Content\\{0}.wav", Type)), FileMode.Open))
                 {
                     _effects.Add(Type, SoundEffect.FromStream(fs));
                 }
